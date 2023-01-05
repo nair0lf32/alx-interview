@@ -7,7 +7,7 @@ Lockboxes problem
 
 def canUnlockAll(boxes):
     """
-    Boxes is a list of lists 
+    Boxes is a list of lists
     (boxes containing keys of other boxes or not)
     Returns True or False for either all lockboxes
     can be opened or not
