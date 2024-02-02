@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Determine the fewest number of coins needed to meet a given amount 
+"""Determine the fewest number of coins needed to meet a given amount
 total from the given pile of coins"""
 
 
